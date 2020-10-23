@@ -26,7 +26,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../spinner-rotate" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -42,11 +42,17 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1603466869825</updated>
-      <workItem from="1603466870853" duration="1824000" />
+      <workItem from="1603466870853" duration="3458000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="580" y="187" key="FileChooserDialogImpl" timestamp="1603475519370">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state x="580" y="187" key="FileChooserDialogImpl/62.0.1474.864/1982.0.2498.1080@62.0.1474.864" timestamp="1603475519370" />
   </component>
 </project>
