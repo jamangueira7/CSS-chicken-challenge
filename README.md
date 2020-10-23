@@ -11,11 +11,13 @@
   <img alt="chicken-challenge" src=".github/Animated-GIF.gif" width="100%">
 </p>
 
-## Curso Rocketseat - NLW2
+## CSS Chicken Challenge
 
 ## 🚀 Tecnologias
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+Esse projeto foi desenvolvido com as seguintes tecnologias. 
+
+Foi feito acompanhando video do canal [James Formica](https://www.youtube.com/watch?v=1uZrGCGbc40&list=PL6vN-6mxfs-1nD8LpXT4oybypN1R0kAeK).
 
 - [CSS3](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 - [HTML5](https://developer.mozilla.org/pt-BR/docs/Web/HTML/HTML5)
